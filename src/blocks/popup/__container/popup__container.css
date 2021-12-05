@@ -1,0 +1,11 @@
+.popup__container {
+    background-color: #FFFFFF;
+    width: 300px;
+    min-height: 200px;
+    border-radius: 10px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

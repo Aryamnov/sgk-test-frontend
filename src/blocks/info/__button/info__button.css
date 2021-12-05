@@ -1,0 +1,16 @@
+.info__button {
+    padding: 0;
+    margin: 10px 0 0 0;
+    width: 200px;
+    font-size: 14px;
+    line-height: 18px;
+    transition: 0.2s linear;
+    background-color: #000000;
+    color: #FFFFFF;
+    border: none;
+}
+
+.info__button:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
