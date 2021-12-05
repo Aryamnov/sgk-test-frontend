@@ -34,7 +34,7 @@ export function Main(props: IMainProps) {
         <h1 className="form__title">Введите ФИО:</h1>
         <input
           className="form__input"
-          type="email"
+          type="text"
           value={name || ""}
           onChange={handleChangeName}
         ></input>
